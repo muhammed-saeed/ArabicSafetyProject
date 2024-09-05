@@ -2,7 +2,7 @@ import openai
 import csv
 from tqdm import tqdm  # Import tqdm for progress bar
 import tiktoken  # This library helps to count tokens (ensure to install it using pip install tiktoken)
-
+    
 # Initialize the OpenAI client
 client = openai.OpenAI(
     api_key="34d0d63cbffe464b8be40d4a8b1c02fe",
