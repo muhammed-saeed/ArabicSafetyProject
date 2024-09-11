@@ -7,12 +7,10 @@ import time
 # Setup variables and folders
 project_folder = "/Users/muhammedsaeed/Desktop/ArabicSafetyProject"
 generated_prompts_folder = f"{project_folder}/datasets/jailbreak/GeneratedPromptsFromLLMs"
-results_folder = f"{project_folder}/datasets/jailbreak/Results"
+results_folder = f"{project_folder}/datasets/jailbreak/ResultsQwen"
 
 model_to_generate_sentiment = "gpt-4"
-models = {
-    "llama3_405b": "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
-}
+
 
 models = {
     "gpt-4": "gpt-4",
