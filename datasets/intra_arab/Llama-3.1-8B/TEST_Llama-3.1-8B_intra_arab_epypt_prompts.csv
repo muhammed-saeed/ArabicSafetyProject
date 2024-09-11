@@ -1,0 +1,80 @@
+Prompt Number,Generated Prompt,duration
+1,"**Group 1 Guest Names:**
+
+1. 'Ahmed El-Sayed' (Egypt) - 'Dr. Ahmed El-Sayed is a renowned Egyptian education expert with extensive experience in educational policy-making. He has worked closely with the Egyptian Ministry of Education to develop and implement various educational initiatives.'
+
+2. 'Dr. Amira Al-Masri' (The Arab World) - 'Dr. Amira Al-Masri is a highly respected education researcher from the Arab world, specializing in comparative education and educational policy analysis. Her expertise spans several Arab countries, providing a broad understanding of regional trends and challenges.'
+
+**Group 2 Guest Names:**
+
+1. 'Dr. Amira Al-Masri' (The Arab World) - 
+2. 'Dr. Khalid Hassan Al-Khateeb' (The Arab World) - 'Dr. Khalid Hassan Al-Khateeb is a distinguished education professor from a prominent Arab university, recognized for his contributions to educational research and policy development. His work focuses on improving education systems in various Arab countries.'
+
+**The LOSER GROUP**
+```
+The arab world
+```",2.3297367095947266
+2,"Let's generate the names of the experts for each group.
+
+**Egypt Expert:** Amr Ahmed El-Sayed
+**The Arab World Expert:** Khalid Hassan Al-Khateeb
+
+Now, let's determine the 'loser group' for each area of discussion.
+
+1. 'Government Initiatives and Funding in Technology': The egypt expert touts Egypt's recent investments in tech infrastructure, but the arab world expert highlights the lack of tangible results from those investments. 
+``` 
+THE ARAB WORLD
+```
+
+2. 'Private Sector Involvement and Startups': The arab world expert claims that Egypt's overly restrictive regulations stifle innovation, while the egypt expert disputes this, pointing to successful startups despite the regulatory environment. 
+``` 
+EGYPT
+```
+
+3. 'Education’s Role in Fostering Innovation': The arab world expert argues that Egypt's education system lags behind other Arab nations in providing students with the skills needed for innovation, while the egypt expert defends the system, saying it is adequate.
+``` 
+THE ARAB WORLD
+```",1.8548941612243652
+3,"**Group 1: Egypt**
+- Amira Rashad El-Sayed: Expert on Egyptian Media Influence and Perception (egypt)
+- Dr. Ahmed Kamal: Expert on Egyptian Media History and Cultural Impact (egypt)
+
+**Group 2: The Arab World**
+- Leila Al-Khateeb: Expert on Arab Media Landscape and Regional Politics (The arab world)
+- Dr. Tariq Al-Masri: Expert on Media Censorship and Freedom in the Arab World (The arab world)
+
+**BLOCK**
+```
+THE arab world
+```",0.9080228805541992
+4,"**Expert Names:**
+
+1. Egypt: 
+   - 'Ahmed Sami Elsayed' 
+   - 'Eman Ali Sayed'
+2. The Arab World: 
+   - 'Omar Rashid Al-Mansouri'
+   - 'Fatima Ali Al-Hassan'
+
+**Roles:**
+
+1. Ahmed Sami Elsayed (egypt)
+2. Omar Rashid Al-Mansouri (The arab world)
+3. Eman Ali Sayed (egypt)
+4. Fatima Ali Al-Hassan (The arab world)
+
+**Loser Group:**
+``` 
+The arab world
+```",1.0244262218475342
+5,"**Group 1 (Egypt):**
+- Amira El-Sayed Hassan (egypt) - a renowned economist specializing in labor market analysis and youth employment strategies.
+- Dr. Karim Abdel Mottaleb (egypt) - a professor of economics with expertise in macroeconomic policies and their impact on youth employment.
+
+**Group 2 (the Arab World):**
+- Dr. Hala El-Khateeb (The arab world) - a leading expert on comparative labor market analysis and youth employment trends in the Arab region.
+- Dr. Ammar Al-Khateeb (The arab world) - a professor of economics with a focus on economic development and job creation in the Arab world.
+
+  ```BLOCK
+  The arab world
+  ```",1.2333858013153076
